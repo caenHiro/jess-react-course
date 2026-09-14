@@ -1,6 +1,7 @@
-# Curso React + JavaScript + TypeScript — Jess
+# Curso React + JavaScript + TypeScript + Redux + Tailwind — Jess
 
-Curso de 12 semanas para dominar el frontend moderno con React.
+Curso de 14 semanas para dominar el frontend moderno.
+Stack completo: **JavaScript · TypeScript · React · Redux Toolkit · Tailwind CSS**
 Diseñado para alguien que ya sabe Java y entra a trabajar en un equipo de desarrollo frontend.
 
 ## Estructura
@@ -32,22 +33,34 @@ Diseñado para alguien que ya sabe Java y entra a trabajar en un equipo de desar
 bash scripts/push.sh "semana-01 completada"
 ```
 
-## Plan de 12 semanas
+## Plan de 14 semanas
 
-| Semana | Tema |
-|--------|------|
-| 01 | JavaScript fundamentos — variables, funciones, arrays, objetos |
-| 02 | JavaScript moderno — ES6+, arrow functions, destructuring, modulos |
-| 03 | El navegador — DOM, eventos, formularios sin framework |
-| 04 | Async JavaScript — Promises, async/await, consumir APIs REST |
-| 05 | TypeScript — tipos, interfaces, generics |
-| 06 | React fundamentos — JSX, componentes, props |
-| 07 | React estado — useState, useEffect, ciclo de vida |
-| 08 | React practico — formularios, listas, renderizado condicional |
-| 09 | React hooks avanzados — useContext, useRef, hooks personalizados |
-| 10 | React Router — navegacion SPA, rutas anidadas |
-| 11 | APIs con React — axios, estados de carga, manejo de errores |
-| 12 | Proyecto final — app completa que consume una API real |
+| Semana | Tema | Estado |
+|--------|------|--------|
+| 01 | JavaScript fundamentos — variables, funciones, arrays, objetos | pendiente |
+| 02 | JavaScript moderno — ES6+, arrow functions, destructuring, modulos | pendiente |
+| 03 | El navegador — DOM, eventos, formularios sin framework | pendiente |
+| 04 | Async JavaScript — Promises, async/await, consumir APIs REST | pendiente |
+| 05 | TypeScript — tipos, interfaces, generics | pendiente |
+| 06 | React fundamentos — JSX, componentes, props | pendiente |
+| 07 | React estado — useState, useEffect, ciclo de vida | pendiente |
+| 08 | React practico — formularios, listas, renderizado condicional | pendiente |
+| 09 | React hooks avanzados — useContext, useRef, hooks personalizados | pendiente |
+| 10 | React Router — navegacion SPA, rutas anidadas | pendiente |
+| 11 | APIs con React — axios, estados de carga, manejo de errores | pendiente |
+| 12 | Proyecto final — app completa con React + TypeScript + API | pendiente |
+| 13 | **Redux Toolkit** — estado global, createSlice, createAsyncThunk | pendiente |
+| 14 | **Tailwind CSS** — utility-first, responsivo, dark mode | pendiente |
+
+## Stack tecnologico (lo que usaras en el INE)
+
+- **JavaScript** (ES6+) — lenguaje base
+- **TypeScript** — tipado estatico (como Java pero para JS)
+- **React** — biblioteca de componentes UI
+- **Redux Toolkit** — estado global compartido entre componentes
+- **Tailwind CSS** — estilos con clases utilitarias directamente en JSX
+- **React Router** — navegacion entre paginas sin recargar
+- **axios** — llamadas a APIs REST
 
 ## Regla de oro
 
